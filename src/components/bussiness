@@ -1,0 +1,29 @@
+<Route path="/business">
+    <News pagesize={9} country="us" category="business" />
+    <About />
+  </Route>
+<Route path="/entertainment">
+    <News pagesize={9} country="us" category="entertainment" />
+    <About />
+  </Route>
+<Route path="/general">
+    <News pagesize={9} country="us" category="general" />
+    <About />
+  </Route>
+<Route path="/health">
+    <News pagesize={9} country="us" category="health" />
+    <About />
+  </Route>
+<Route path="/science">
+    <News pagesize={9} country="us" category="science" />
+    <About />
+  </Route>
+<Route path="/sports">
+    <News pagesize={9} country="us" category="sports" />
+    <About />
+  </Route>
+<Route path="/technology">
+    <News pagesize={9} country="us" category="technology" />
+    <About />
+  </Route>
+  e1bf255aa9c346488534ad9a79d8d7ef
